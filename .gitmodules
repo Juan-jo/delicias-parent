@@ -1,0 +1,9 @@
+[submodule "delicias-backend"]
+	path = delicias-backend
+	url = git@github.com:Juan-jo/delicias-backend.git
+[submodule "delicias-core"]
+	path = delicias-core
+	url = git@github.com:Juan-jo/delicias-core.git
+[submodule "delicias-batch"]
+	path = delicias-batch
+	url = git@github.com:Juan-jo/delicias-batch.git
